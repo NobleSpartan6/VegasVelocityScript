@@ -64,4 +64,4 @@ VelEnv.Points.Add(d);
 }
 }
 //Orginally by Str0kd 
-//Modified by Noble
+//Velocity settings by Noble
